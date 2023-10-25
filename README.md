@@ -2,6 +2,7 @@
 - 👀 I’m interested in databases, advanced programming, big data
 - 🌱 I’m a computer science teacher
 - 💞️ I’m looking to collaborate on machine learning project
+- Marathon Runner
 - 📫 How to reach me: eanassu@gmail.com
 
 <!---
