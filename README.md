@@ -3,7 +3,7 @@
 - 🌱 I’m a computer science teacher
 - 💞️ I’m looking to collaborate on machine learning project
 - Marathon Runner
-- F1 fan
+- F1, NBA, NFL fan
 - Gran Turismo Player
 - 📫 How to reach me: eanassu@gmail.com
 
