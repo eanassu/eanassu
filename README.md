@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @eanassu
-- 👀 I’m interested in databases, advanced programming, big data
+- 👀 I’m interested in databases, advanced programming, big data, AI
 - 🌱 I’m a computer science teacher
 - 💞️ I’m looking to collaborate on machine learning project
 - Marathon Runner
+- F1 fan
+- Gran Turismo Player
 - 📫 How to reach me: eanassu@gmail.com
 
 <!---
