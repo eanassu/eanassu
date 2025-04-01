@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @eanassu
 - 👀 I’m interested in databases, advanced programming, big data, AI
-- 🌱 I’m a computer science teacher
+- 🌱 I’m a computer science teacher 💻
 - 💞️ I’m looking to collaborate on machine learning project
-- Marathon Runner
-- F1, NBA, NFL fan
-- Gran Turismo Player
+- 🏃 Marathon Runner
+- 🏎️ F1, 🏀 NBA, 🏈 NFL fan
+- 🎮 Gran Turismo Player
 - 📫 How to reach me: eanassu@gmail.com
 
 <!---
