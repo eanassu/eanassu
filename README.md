@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eanassu
 - 👀 I’m interested in databases, advanced programming, big data, AI
-- 🌱 I’m a computer science teacher 💻
+- 🌱 I’m a computer science teacher 💻, Computer Science PhD.
 - 💞️ I’m looking to collaborate on AI projects
 - 🏃 Marathon Runner
 - 🏎️ F1, 🏀 NBA, 🏈 NFL fan
